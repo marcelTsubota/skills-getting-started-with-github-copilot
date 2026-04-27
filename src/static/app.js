@@ -132,4 +132,3 @@ document.addEventListener("DOMContentLoaded", () => {
   // Initialize app
   fetchActivities();
 });
-// ajuste da pipeline
