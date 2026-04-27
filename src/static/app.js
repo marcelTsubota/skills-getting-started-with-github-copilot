@@ -141,3 +141,4 @@ document.addEventListener("DOMContentLoaded", () => {
   fetchActivities();
 });// Step 3 validation trigger
 // Reopen issue validation trigger
+// Step 3 validation trigger again
