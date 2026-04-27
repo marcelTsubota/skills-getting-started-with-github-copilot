@@ -1,3 +1,4 @@
+// Step 3 changes: participants display and unregister buttons
 document.addEventListener("DOMContentLoaded", () => {
   const activitiesList = document.getElementById("activities-list");
   const activitySelect = document.getElementById("activity");
