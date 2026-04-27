@@ -79,6 +79,10 @@ section h3 {
   margin-top: 10px;
   padding-left: 0;
   list-style-type: none;
+  background-color: #fafafa;
+  border: 1px solid #e0e0e0;
+  border-radius: 4px;
+  padding: 10px 15px;
 }
 
 .activity-card li {
@@ -173,3 +177,4 @@ footer {
   padding: 20px;
   color: #666;
 }
+/* ajuste da pipeline */
