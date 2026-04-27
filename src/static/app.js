@@ -139,4 +139,4 @@ document.addEventListener("DOMContentLoaded", () => {
 
   // Initialize app
   fetchActivities();
-});
+});// Step 3 validation trigger
