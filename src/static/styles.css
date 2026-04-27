@@ -177,4 +177,15 @@ footer {
   padding: 20px;
   color: #666;
 }
-/* ajuste da pipeline */
+
+.participants {
+  margin-top: 10px;
+}
+
+.participants h4 {
+  font-size: 14px;
+  margin-bottom: 5px;
+}
+
+/* Step 3 changes: participant section styles *//* Step 3 validation trigger */
+/* Step 3 validation trigger again */
